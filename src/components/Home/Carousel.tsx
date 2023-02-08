@@ -25,7 +25,7 @@ function Carousel() {
                     alt='book1'
                   />
                   <h6 className='mt-2'>Book</h6>
-                  <p>Luv2Code</p>
+                  <p>Ranjan Library</p>
                   <a className='btn main-color text-white' href='#'>
                     Reserve
                   </a>
@@ -44,7 +44,7 @@ function Carousel() {
                     alt='book'
                   />
                   <h6 className='mt-2'>Book</h6>
-                  <p>Luv2Code</p>
+                  <p>Ranjan Library</p>
                   <a className='btn main-color text-white' href='#'>
                     Reserve
                   </a>
@@ -63,7 +63,7 @@ function Carousel() {
                     height='233'
                   />
                   <h6 className='mt-2'>Book</h6>
-                  <p>Luv2Code</p>
+                  <p>Ranjan Library</p>
                   <a className='btn main-color text-white' href='#'>
                     Reserve
                   </a>
@@ -109,7 +109,7 @@ function Carousel() {
               height='233'
             />
             <h6 className='mt-2'>Book</h6>
-            <p>Luv2Code</p>
+            <p>Ranjan Library</p>
             <a className='btn main-color text-white' href='#'>
               Reserve
             </a>
