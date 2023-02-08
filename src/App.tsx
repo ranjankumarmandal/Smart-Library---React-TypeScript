@@ -4,7 +4,12 @@ import NavBar from "./components/NavBar";
 import ExploreTopBooks from "./components/Home/ExploreTopBooks";
 
 function App() {
-  return <NavBar />;
+  return (
+    <>
+      <NavBar />
+      <ExploreTopBooks />
+    </>
+  );
 }
 
 export default App;
